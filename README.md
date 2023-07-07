@@ -15,24 +15,30 @@ When users attempt to log in, they are prompted to enter their email and passwor
 ## Technologies Used
 The following technologies are utilized in this project:
 
-- React.js: This frontend framework is used to create an intuitive and interactive user interface. It enables seamless navigation and enhances the overall user experience.
+- React.js: This frontend framework is used to create an intuitive and interactive user interface. It enables seamless navigation and enhances the overall user     
+  experience.
 
-- Express.js: As a backend framework, Express.js facilitates routing and API integration. It handles the server-side logic required for authentication and image retrieval.
+- Express.js: As a backend framework, Express.js facilitates routing and API integration. It handles the server-side logic required for authentication and image 
+  retrieval.
 
-MongoDB: This NoSQL database is employed to store user information and graphical passwords securely. It ensures scalability, flexibility, and efficient data management.
+- MongoDB: This NoSQL database is employed to store user information and graphical passwords securely. It ensures scalability, flexibility, and efficient data 
+  management.
 
-- Unsplash API: By integrating the Unsplash API, high-quality images are fetched based on user-selected categories. This feature allows users to personalize their graphical passwords with images of their choice, increasing user engagement and satisfaction.
+- Unsplash API: By integrating the Unsplash API, high-quality images are fetched based on user-selected categories. This feature allows users to personalize their 
+  graphical passwords with images of their choice, increasing user engagement and satisfaction.
 
 ## Advantages
 The Graphical Password Authentication project offers several advantages:
 
-- Enhanced Security: Graphical passwords are inherently more secure than text-based passwords since they are harder to guess or crack. By leveraging images, this project provides an added layer of protection for user accounts.
+- Enhanced Security: Graphical passwords are inherently more secure than text-based passwords since they are harder to guess or crack. By leveraging images, this   
+  project provides an added layer of protection for user accounts.
 
-Improved User Experience: Remembering complex passwords can be challenging for users. By using graphical passwords, which are easier to recall, the project reduces the likelihood of forgotten passwords and enhances the overall user experience.
+- Improved User Experience: Remembering complex passwords can be challenging for users. By using graphical passwords, which are easier to recall, the project       
+  reduces the likelihood of forgotten passwords and enhances the overall user experience.
 
-- User Engagement: The integration of the Unsplash API enables users to select and personalize their graphical passwords with images they choose. This feature adds a level of customization and personalization, leading to increased user engagement.
+- User Engagement: The integration of the Unsplash API enables users to select and personalize their graphical passwords with images they choose. This feature adds   a level of customization and personalization, leading to increased user engagement.
 
-- Scalability: The MERN stack, combined with MongoDB, provides a robust and scalable infrastructure for user authentication and data storage. It ensures that the project can handle a growing number of users and their associated data without compromising performance.
+- Scalability: The MERN stack, combined with MongoDB, provides a robust and scalable infrastructure for user authentication and data storage. It ensures that the     project can handle a growing number of users and their associated data without compromising performance.
 
 ## License
 The Graphical Password Authentication project is licensed under the [MIT License](LICENSE).License] (LICENSE
